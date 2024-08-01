@@ -20,4 +20,4 @@ This is a web app developed as a final project for SheCodes Plus using HTML, CSS
 - Netlify
 
 # Demo
-A live demo of the weather app can be found at [LINK TO LIVE DEMO](https://weather-app-shemmee.netlify.app).
+A live demo of the weather app can be found at [LINK TO LIVE DEMO](https://strong-peony-ad44f4.netlify.app/).
